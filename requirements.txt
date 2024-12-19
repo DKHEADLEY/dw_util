@@ -1,0 +1,4 @@
+dimod
+dwave-ocean-sdk
+numpy
+matplotlib
