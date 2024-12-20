@@ -5,22 +5,19 @@ build-backend = "hatchling.build"
 [project]
 name = "dw_util"
 version = "0.1.0"
-description = "Utilities for D-Wave quantum computing"
+description = "Utilities for domain wall encoding of QUBO problems"
 authors = [
-    { name = "Your Name", email = "your.email@example.com" }
+    { name = "David Headley"}
 ]
-license = "MIT"
+license = "Copyright 2024 David Headley"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
-[project.urls]
-"Homepage" = "https://github.com/yourusername/dw_util"
-"Bug Tracker" = "https://github.com/yourusername/dw_util/issues"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
