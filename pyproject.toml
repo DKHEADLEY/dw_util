@@ -9,7 +9,7 @@ description = "Utilities for domain wall encoding of QUBO problems"
 authors = [
     { name = "David Headley"}
 ]
-license = "Copyright 2024 David Headley"
+license = "LICENSE.txt"
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [

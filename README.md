@@ -1,5 +1,7 @@
 # DW-Util
 
-Utilities for D-Wave quantum computing.
+Utilities for domain wall encoding of QUBO problems as used by D-Wave quantum annealers. 
 
-## Installation 
+
+
+
